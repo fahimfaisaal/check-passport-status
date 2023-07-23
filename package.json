@@ -1,0 +1,16 @@
+{
+  "name": "check-passport-status",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "jiti main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^20.9.0"
+  },
+  "devDependencies": {
+    "jiti": "^1.19.1"
+  }
+}
